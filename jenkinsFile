@@ -5,7 +5,7 @@ pipeline {
         stage ("Git Checkout"){
             steps{
             git branch: 'main', 
-            url: 'https://github.com/atefmiladi/TP-Achat-Test2.git'
+            url: 'https://github.com/yesmine792/TEST-PROJECT.git'
             }
         
         }
